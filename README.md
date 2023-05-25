@@ -1,8 +1,9 @@
-### Hi there 👋
-
-# 完成したゲーム
+### 完成したゲーム
 https://unityroom.com/games/tametama
 
+### 作成中のゲーム
+
+### 完成しなかったゲームたち
 
 <!--
 **momota-koji/momota-koji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
