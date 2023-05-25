@@ -1,5 +1,5 @@
 ### 完成したゲーム
-https://unityroom.com/games/tametama
+[タメられてたまるか！](https://unityroom.com/games/tametama)
 
 ### 作成中のゲーム
 
