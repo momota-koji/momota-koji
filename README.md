@@ -29,18 +29,18 @@
 いくつかゲームのスクショ 
 -->
 
-<img src="images/soft.png" width=300px> <img src="images/sleepy.png" width=300px> <img src="images/turnbased.png" width=300px>
+<img src="images/soft.png" height=200px> <img src="images/sleepy.png" height=200px> <img src="images/turnbased.png" height=200px>
 
 - 完成までたどり着けなかったゲームたち
 
 ***
 ## 制作中の銭湯
 
-<img src="images/sento-yokusitu.jpg" width=300px> <img src="images/sento-roten.jpg" width=300px>
+<img src="images/sento-yokusitu.jpg" height=200px> <img src="images/sento-roten.jpg" height=200px>
 
 - 銭湯が好きなので，VRChatのワールドに自分の理想の銭湯を作っています
 
-<img src="images/sento-sauna.jpg" width=300px> <img src="images/sento-mizuburo.jpg" width=300px>
+<img src="images/sento-sauna.jpg" height=200px> <img src="images/sento-mizuburo.jpg" height=200px>
 
 - もちろんサウナと水風呂もあります
 
