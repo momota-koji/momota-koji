@@ -1,11 +1,11 @@
 ### 完成したゲーム
 [タメられてたまるか！](https://unityroom.com/games/tametama)
 
-### 作成中のゲーム
+### 制作中のゲーム
 
 ### 完成しなかったゲームたち
 
-### 作成中の銭湯
+### 制作中の銭湯
 
 <!--
 **momota-koji/momota-koji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
