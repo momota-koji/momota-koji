@@ -29,7 +29,9 @@
 いくつかゲームのスクショ 
 -->
 
-<img src="images/soft.png" width=300px> <img src="images/sleepy.png" width=300px> <img src="images/turnbased.png" width=300px>
+<img src="images/soft.png" width=300px> <img src="images/sleepy.png" width=300px> <img src="images/novel1.png" width=300px>
+
+<img src="images/novel2.png" width=300px> <img src="images/novel3.png" width=300px> <img src="images/turnbased.png" width=300px>
 
 - 完成までたどり着けなかったゲームたち
 
